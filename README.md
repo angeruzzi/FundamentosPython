@@ -1,4 +1,4 @@
-# Fundamento de Python para Date Science
+# Fundamento de Python para Data Science
 - Operadores
 - Estruturas e Funções
 - Biblioteca Numpy
